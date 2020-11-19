@@ -4,7 +4,7 @@
   "testName": "abcdtest",
   "runStatus": "STARTED",
   "testStatus": null,
-  "startTime": "2020-11-18 11:22:11"
+  "startTime": "2020-11-18 11:22:11",
   "endTime": null,
   "expAvgResponseTime": 4000,
   "expAvgTransactionPerSec": 5,
